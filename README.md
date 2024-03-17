@@ -1,16 +1,27 @@
-### Hi there 👋
+<!-- Ref.: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-<!--
-**romainfd/romainfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Romain Fouilland</h1>
+<h3 align="center">An impact-driven tech enthusiast from France</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romainfd&label=Profile%20views&color=yellow&style=flat" alt="romainfd" /> </p>
+
+- 🔭 I’m currently working on an **[interoperability platform](https://hub.esante.gouv.fr) between different software of the Emergency Medical Services**
+
+- 🌱 I’m currently learning **Dart and Flutter app development, LLM use and IoT development**
+
+- 👯 I’m looking to collaborate with **fellow tech enthusiasts and/or impact-driven persons**
+
+- 📄 You can learn more about me on my **[personal website](https://fouilland.fr)**
+
+- 📫 Feel free to reach me **through [LinkedIn](https://www.linkedin.com/in/romainfouilland/)**
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romainfd&row=1" alt="romainfd" /></a> </p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=romainfd&" alt="romainfd" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfd&show_icons=true&locale=en&layout=compact" alt="romainfd" /></p>
+
