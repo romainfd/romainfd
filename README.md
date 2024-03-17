@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romainfd&row=1" alt="romainfd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romainfd&rank=-C&row=1" alt="romainfd" /></a> </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=romainfd&" alt="romainfd" /></p>
 
