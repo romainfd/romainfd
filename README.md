@@ -6,7 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainfd&label=Profile%20views&color=yellow&style=flat" alt="romainfd" /> </p>
-![](https://hit.yhype.me/github/profile?user_id=32517197)
 
 - 🔭 I’m currently working on an **[interoperability platform](https://hub.esante.gouv.fr) between different software of the Emergency Medical Services**
 
@@ -26,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romainfd&show_icons=true&locale=en&layout=compact" alt="romainfd" /></p>
 
+![](https://hit.yhype.me/github/profile?user_id=32517197)
