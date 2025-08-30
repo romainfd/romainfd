@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainfd&label=Profile%20views&color=yellow&style=flat" alt="romainfd" /> </p>
 
-- 🔭 I’m currently working on an **[interoperability platform](https://hub.esante.gouv.fr) between different software of the Emergency Medical Services**
+- 🔭 I’m currently working on a **venture mixing video, AI and surfing**
 
-- 🌱 I’m currently learning **Dart and Flutter app development, LLM use and IoT development**
+- 🌱 I’m currently focusing on **LLM and Computer Vision latest trends**
 
 - 👯 I’m looking to collaborate with **fellow tech enthusiasts and/or impact-driven persons**
 
